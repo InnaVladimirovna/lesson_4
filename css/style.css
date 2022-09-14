@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,900&display=swap');
+
+@font-face {
+   font-family: "Larsseit";
+   src: url(../fonts/Larsseit-Bold.woff2) format("woff2"),  url(../fonts/Larsseit-Bold.woff) format("woff");
+   font-display:  swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url(../fonts/Larsseit.woff2) format("woff2"),  url(../fonts/Larsseit.woff) format("woff");
+   font-display:  swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url(../fonts/Larsseit-Medium.woff2) format("woff2"),  url(../fonts/Larsseit-Medium.woff) format("woff");
+   font-display:  swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url(../fonts/Lato-Black.woff2) format("woff2"),  url(../fonts/Lato-Black.woff) format("woff");
+   font-display:  swap;
+   font-weight: 900;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url(../fonts/Lato-Bold.woff2) format("woff2"),  url(../fonts/Lato-Bold.woff) format("woff");
+   font-display:  swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url(../fonts/Lato-Regular.woff2) format("woff2"),  url(../fonts/Lato-Regular.woff) format("woff");
+   font-display:  swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+header   h1{
+   font-family: "Roboto";
+   font-weight: 900;
+   color: rgb(103, 10, 10);
+}
+.introduction{
+   font-family: "Larsseit";
+   font-weight: 700;
+}
+.family{
+   font-family: "Larsseit";
+   font-weight: 400;
+}
+.grand{
+   color: darkcyan;
+}
+.hobby   p{
+   font-family: "Larsseit";
+   font-weight: 500;
+   color: teal;
+}
+.study{
+   font-family: "Lato";
+   font-weight: 900;
+}
+.learn{
+   color: darkolivegreen;
+}
+.work{
+   font-family: "Roboto";
+   font-weight: 700;
+   color: chocolate;
+}
+.chaild{
+   font-family: "Lato";
+   font-weight: 400;
+}
+.medicine{
+   font-family: "Lato";
+   font-weight: 900;
+}
+.frend{
+   font-family: "Lato";
+   font-weight: 700;
+}
+.song{
+   font-family: "Larsseit";
+   font-weight: 500;
+   color: dimgray;
+}
+.footer{
+   font-family: "Lato";
+   font-weight: 900;;
+}
+.link{
+   font-family: "Larsseit";
+   font-weight: 500;
+   color: darkslateblue;
+}
